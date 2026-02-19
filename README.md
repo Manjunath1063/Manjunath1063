@@ -1,6 +1,6 @@
 Hi, I’m Manjunath 👋
 
-Software Engineer | Java Developer (Entry-Level)
+Software Developer | Java Developer (Entry-Level)
 
 🔭 Currently working on:
 A Java-based Student Management System with authentication, account management, and database integration using JDBC.
